@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CadUser\'s</string>
+    <string name="entrar">ENTRAR</string>
+    <string name="sair">SAIR</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="listar">Listar</string>
+    <string name="hint_nome">Nome</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_senha">Senha</string>
+    <string name="hint_confirmar">Confirmar</string>
+    <string name="efetuar_cadastro">CADASTRAR</string>
+    <string name="list_sample">sample</string>
+</resources>
